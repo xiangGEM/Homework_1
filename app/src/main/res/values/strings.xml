@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Homework_1</string>
+    
+    <string-array name="lettresToHeaven">
+        <item>少年與海</item>
+        <item>Hell</item>
+        <item>只有我和你的地方</item>
+        <item>你不是第一個離開的人</item>
+        <item>不想回家</item>
+        <item>冰河時代</item>
+        <item>受難曲</item>
+    </string-array>
+
+    <string-array name="lettresFromHeaven">
+        <item>Gloria</item>
+        <item>老人與海</item>
+        <item>Find You</item>
+        <item>離心力</item>
+        <item>讓世界暫停一分鐘</item>
+        <item>夜的盡頭</item>
+        <item>天空沒有極限</item>
+    </string-array>
+
+</resources>
